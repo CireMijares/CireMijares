@@ -21,4 +21,6 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan, driven by
 - 🌟 Completed Git & GitHub Setup 2024
 - 🔭 I’m currently working on my final API project.
 
+## Fun Fact: I have an unhealthy obsession with VTubers, video games, and soda.
+
 Thanks for stopping by!
